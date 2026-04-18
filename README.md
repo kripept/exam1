@@ -80,17 +80,10 @@ sudo usermod -aG sudo engineer
 
 ## Задание 3 – Git репозиторий
 
-```bash
-mkdir arduino_project && cd arduino_project
-git init
-git add .
-git commit -m "Initial commit: UART duplex sketches, VM network setup, engineer user"
-```
 
 **Файлы в репозитории:**
-- `uno.ino` / `nano.ino`
-- `REPORT.md`
-- `ping_result.png` / `user_engineer.png`
+- `ard2.ino` / `ard1.ino`
+- `README.md`
 
 Результат:** Локальный репозиторий создан, коммит выполнен.
 
