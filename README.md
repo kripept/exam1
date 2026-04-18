@@ -1,6 +1,4 @@
 
----
-
 # ОТЧЁТ 
 
 ## Задание 1 – Duplex UART (Arduino Uno + Nano)
@@ -35,8 +33,10 @@ void loop() {
 ```
 
  **Результат:** Данные идут в обе стороны.
+<img width="974" height="611" alt="image" src="https://github.com/user-attachments/assets/318329dc-3c69-4c6f-a244-29c3057bb721" />
 
 ---
+<img width="703" height="703" alt="image" src="https://github.com/user-attachments/assets/7b6a6e14-6d8e-4e9d-a32f-438981003862" />
 
 ## Задание 2 – VirtualBox (Windows 10 + Ubuntu Server)
 
@@ -71,7 +71,10 @@ sudo useradd -m engineer
 sudo passwd engineer
 sudo usermod -aG sudo engineer
 ```
+<img width="974" height="689" alt="image" src="https://github.com/user-attachments/assets/c4e1c96e-86c7-46ec-9d82-1b8269fabb30" />
+
  **Результат:** Пинг работает, пользователь создан, в группе sudo.
+<img width="974" height="529" alt="image" src="https://github.com/user-attachments/assets/f7162722-0e5d-4d83-a373-ee01fb10aa03" />
 
 ---
 
@@ -91,13 +94,3 @@ git commit -m "Initial commit: UART duplex sketches, VM network setup, engineer 
 
 Результат:** Локальный репозиторий создан, коммит выполнен.
 
-
-
- Итог
-
-| Задание | Статус |
-| №1 UART duplex |  
-| №2 VirtualBox сеть + ping + engineer | 
-| №3 Git репозиторий + коммит | 
-
-**ВСЕ ЗАДАНИЯ ВЫПОЛНЕНЫ.**
